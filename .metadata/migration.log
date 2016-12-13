@@ -1,0 +1,20 @@
+
+INFO     Validating project: EarEjbTransacciones
+INFO     Finished validating project: EarEjbTransacciones
+
+INFO     Validating project: EarWebTransacciones
+INFO     Finished validating project: EarWebTransacciones
+
+INFO     Validating project: EjbTransacciones
+INFO     Finished validating project: EjbTransacciones
+
+INFO     Validating project: EjbTransaccionesClient
+INFO     Finished validating project: EjbTransaccionesClient
+
+INFO     Validating project: WarTransacciones
+INFO     Finished validating project: WarTransacciones
+
+INFO     Validating project: WarTransacciones_ejb
+INFO     Finished validating project: WarTransacciones_ejb
+
+Migration complete

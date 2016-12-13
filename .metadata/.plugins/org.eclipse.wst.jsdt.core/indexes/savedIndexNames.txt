@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/home/everis/Desktop/AgaveCourse/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1046858057.index
+1628533323.index
+319960532.index
+106715523.index
+1602536740.index
+4079002418.index

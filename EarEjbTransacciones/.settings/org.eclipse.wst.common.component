@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="EarEjbTransacciones">
+        <wb-resource deploy-path="/" source-path="/" tag="defaultRootSource"/>
+        <dependent-module archiveName="EjbTransacciones.jar" deploy-path="/" handle="module:/resource/EjbTransacciones/EjbTransacciones">
+            <dependent-object>Module_1481575130810</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="EjbTransaccionesClient.jar" deploy-path="/" handle="module:/resource/EjbTransaccionesClient/EjbTransaccionesClient">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="WarTransacciones_ejb.war" deploy-path="/" handle="module:/resource/WarTransacciones_ejb/WarTransacciones_ejb">
+            <dependent-object>Module_1481575208403</dependent-object>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
